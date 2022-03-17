@@ -1,1 +1,1 @@
-# weather-report-py
+# weather-report
